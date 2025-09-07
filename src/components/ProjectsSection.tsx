@@ -64,7 +64,7 @@ const ProjectsSection = () => {
       techStack: ['YOLO', 'PyTorch', 'OpenCV', 'Python', 'Computer Vision', 'Real-time'],
       githubUrl: '#',
       liveUrl: '#'
-    }
+    },
     {
       id: '7',
       title: 'Computer Vision Object Detection',
