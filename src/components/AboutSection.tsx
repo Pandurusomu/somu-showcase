@@ -10,8 +10,6 @@ const AboutSection = () => {
     'NLP',
     'Computer Vision',
     'Prompt Engineering',
-    'React',
-    'Node.js'
   ];
 
   return (
