@@ -65,6 +65,14 @@ const ProjectsSection = () => {
       githubUrl: '#',
       liveUrl: '#'
     }
+    {
+      id: '7',
+      title: 'Computer Vision Object Detection',
+      description: 'Real-time object detection system using YOLO architecture for autonomous systems and surveillance applications.',
+      techStack: ['YOLO', 'PyTorch', 'OpenCV', 'Python', 'Computer Vision', 'Real-time'],
+      githubUrl: '#',
+      liveUrl: '#'
+    }
   ]);
   
   const [isModalOpen, setIsModalOpen] = useState(false);
