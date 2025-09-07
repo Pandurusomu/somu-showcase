@@ -23,7 +23,7 @@ const ProjectsSection = () => {
       description: 'Advanced machine learning model for customer segmentation using clustering algorithms and behavioral analysis. Achieved 92% accuracy in customer classification.',
       techStack: ['Python', 'Scikit-learn', 'Pandas', 'Matplotlib', 'K-Means'],
       githubUrl: '#',
-      liveUrl: 'https://pandurusomu.vercel.app/'
+      liveUrl: 'https://pandurusomu.vercel.app'
     },
     {
       id: '2',
